@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/amor/static/css/main.b4097e8b.css",
-    "main.js": "/amor/static/js/main.82c5a965.js",
+    "main.css": "/amor/static/css/main.b5aacb55.css",
+    "main.js": "/amor/static/js/main.1d154e87.js",
     "static/js/453.08b10445.chunk.js": "/amor/static/js/453.08b10445.chunk.js",
     "static/media/bein.png": "/amor/static/media/bein.bfaa080fbe6b34d8cfd8.png",
     "static/media/ruder.png": "/amor/static/media/ruder.8aecbb2e386f87058da7.png",
@@ -15,12 +15,12 @@
     "static/media/logo.svg": "/amor/static/media/logo.b1db89c7599194be7bdab6b8b5206226.svg",
     "static/media/back.svg": "/amor/static/media/back.a77dbd0fbc4321eab8602d11b62781af.svg",
     "index.html": "/amor/index.html",
-    "main.b4097e8b.css.map": "/amor/static/css/main.b4097e8b.css.map",
-    "main.82c5a965.js.map": "/amor/static/js/main.82c5a965.js.map",
+    "main.b5aacb55.css.map": "/amor/static/css/main.b5aacb55.css.map",
+    "main.1d154e87.js.map": "/amor/static/js/main.1d154e87.js.map",
     "453.08b10445.chunk.js.map": "/amor/static/js/453.08b10445.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4097e8b.css",
-    "static/js/main.82c5a965.js"
+    "static/css/main.b5aacb55.css",
+    "static/js/main.1d154e87.js"
   ]
 }
