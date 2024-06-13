@@ -1,0 +1,17 @@
+:root{
+    --blue: #A4AED8;
+    --lila: #604FA1;
+    --red: #BF1B1F;
+    --fredokaBold: 'Fredoka Bold';
+    --fredoka: 'Fredoka';
+}
+
+@font-face {
+    font-family: 'Rubrik-Mono-One';
+    src: url(../fonts/RubikMonoOne-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Krona-One';
+    src: url(../fonts/KronaOne-Regular.ttf);
+}
