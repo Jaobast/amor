@@ -52,6 +52,11 @@ function Workouts() {
     if (showWorkout) {
       setTimeout(() => {
         if (workoutRef.current && containerRef.current) {
+          document.getElementById('theme-color-meta').setAttribute('content', '#604FA1');
+        }
+      }, 700);
+      setTimeout(() => {
+        if (workoutRef.current && containerRef.current) {
           workoutRef.current.style.display = 'flex';
           containerRef.current.style.display = 'none';
         }
@@ -78,6 +83,7 @@ function Workouts() {
   };
 
   const closeWorkout = () => {
+    document.getElementById('theme-color-meta').setAttribute('content', '#A4AED8');
     setShowWorkout(false);
     if (workoutRef.current && containerRef.current) {
       workoutRef.current.style.display = 'none';
