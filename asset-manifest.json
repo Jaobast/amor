@@ -1,16 +1,26 @@
 {
   "files": {
-    "main.css": "/amor/static/css/main.f855e6bc.css",
-    "main.js": "/amor/static/js/main.fa71a543.js",
+    "main.css": "/amor/static/css/main.b4097e8b.css",
+    "main.js": "/amor/static/js/main.82c5a965.js",
     "static/js/453.08b10445.chunk.js": "/amor/static/js/453.08b10445.chunk.js",
-    "static/media/logo.svg": "/amor/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/bein.png": "/amor/static/media/bein.bfaa080fbe6b34d8cfd8.png",
+    "static/media/ruder.png": "/amor/static/media/ruder.8aecbb2e386f87058da7.png",
+    "static/media/brust.png": "/amor/static/media/brust.549aaa2a05c0e6742d91.png",
+    "static/media/ruecken.png": "/amor/static/media/ruecken.9980529f3f385421570d.png",
+    "static/media/bauch.png": "/amor/static/media/bauch.7e65d2f534a925777349.png",
+    "static/media/wallpaper-blue.svg": "/amor/static/media/wallpaper-blue.beb37d8e1a8f86fe72347756f09e56c9.svg",
+    "static/media/circle.svg": "/amor/static/media/circle.474c66599bafb4285e9dc0088f6fb130.svg",
+    "static/media/RubikMonoOne-Regular.ttf": "/amor/static/media/RubikMonoOne-Regular.bca8f5015b00e4514972.ttf",
+    "static/media/KronaOne-Regular.ttf": "/amor/static/media/KronaOne-Regular.97c7e647eef168b16a0b.ttf",
+    "static/media/logo.svg": "/amor/static/media/logo.b1db89c7599194be7bdab6b8b5206226.svg",
+    "static/media/back.svg": "/amor/static/media/back.a77dbd0fbc4321eab8602d11b62781af.svg",
     "index.html": "/amor/index.html",
-    "main.f855e6bc.css.map": "/amor/static/css/main.f855e6bc.css.map",
-    "main.fa71a543.js.map": "/amor/static/js/main.fa71a543.js.map",
+    "main.b4097e8b.css.map": "/amor/static/css/main.b4097e8b.css.map",
+    "main.82c5a965.js.map": "/amor/static/js/main.82c5a965.js.map",
     "453.08b10445.chunk.js.map": "/amor/static/js/453.08b10445.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.fa71a543.js"
+    "static/css/main.b4097e8b.css",
+    "static/js/main.82c5a965.js"
   ]
 }
